@@ -18,7 +18,8 @@ SSH
 
 ```ssh <container-ip>```
 
-Username: root
-Password: Passw0rd
+**Username:** root
+
+**Password:** Passw0rd
 
 Based on : https://docs.docker.com/engine/examples/running_ssh_service/
